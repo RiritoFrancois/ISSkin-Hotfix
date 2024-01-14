@@ -7,7 +7,7 @@
 AppName=ISSkin Example
 AppVerName=ISSkin Example v1.0
 AppVersion=1.0.0.2
-AppCopyright=© 1998-2008 Codejock Software
+AppCopyright=Â© 1998-2008 Codejock Software
 DefaultDirName={pf}\ISSkin
 DefaultGroupName=ISSkin
 Compression=lzma
@@ -24,7 +24,7 @@ VersionInfoTextVersion=1, 0, 0, 2
 
 [Files]
 ; Add the ISSkin DLL used for skinning Inno Setup installations.
-Source: ISSkin.dll; DestDir: {app}; Flags: dontcopy
+Source: ISSkinU.dll; DestDir: {app}; Flags: dontcopy
 
 ; Add the Visual Style resource contains resources used for skinning,
 ; you can also use Microsoft Visual Styles (*.msstyles) resources.
