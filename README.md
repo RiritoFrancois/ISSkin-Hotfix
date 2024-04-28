@@ -1,2 +1,3 @@
 # ISSkin-Hotfix
-ISSkin-Hotfix by RiritoFrancois(Windows 8, Windows 8.1, Windows 10 and Windows 11 Hotfix)
+
+This is Just Hotfix for Newer Version of INNO SETUP!!! So Enjoy to use this repository!!!
